@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AEXP_LargeLizardlike.label>grande lagarto</AEXP_LargeLizardlike.label>
+  <AEXP_LargeLizardlike.corePart.parts.left_lung.customLabel>pulmão esquerdo</AEXP_LargeLizardlike.corePart.parts.left_lung.customLabel>
+  <AEXP_LargeLizardlike.corePart.parts.right_lung.customLabel>pulmão direito</AEXP_LargeLizardlike.corePart.parts.right_lung.customLabel>
+  <AEXP_LargeLizardlike.corePart.parts.left_kidney.customLabel>rim esquerdo</AEXP_LargeLizardlike.corePart.parts.left_kidney.customLabel>
+  <AEXP_LargeLizardlike.corePart.parts.right_kidney.customLabel>rim direito</AEXP_LargeLizardlike.corePart.parts.right_kidney.customLabel>
+  <AEXP_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>olho esquerdo</AEXP_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <AEXP_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>olho direito</AEXP_LargeLizardlike.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <AEXP_LargeLizardlike.corePart.parts.front_left_leg.customLabel>???</AEXP_LargeLizardlike.corePart.parts.front_left_leg.customLabel>
+  <AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>primeira garra da perna dianteira esquerda</AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>
+  <AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>segunda garra da perna dianteira esquerda</AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>
+  <AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>terceira garra da perna dianteira esquerda</AEXP_LargeLizardlike.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>
+  <AEXP_LargeLizardlike.corePart.parts.front_right_leg.customLabel>perna dianteira direita</AEXP_LargeLizardlike.corePart.parts.front_right_leg.customLabel>
+  <AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>primeira garra da perna dianteira direita</AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>
+  <AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>segunda garra da perna dianteira direita</AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>
+  <AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>terceira garra da perna dianteira direita</AEXP_LargeLizardlike.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>
+  <AEXP_LargeLizardlike.corePart.parts.rear_left_leg.customLabel>perna traseira esquerda</AEXP_LargeLizardlike.corePart.parts.rear_left_leg.customLabel>
+  <AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>primeira garra da perna traseira esquerda</AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>
+  <AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>segunda garra da perna traseira esquerda</AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>
+  <AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>terceira garra da perna traseira esquerda</AEXP_LargeLizardlike.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>
+  <AEXP_LargeLizardlike.corePart.parts.rear_right_leg.customLabel>perna traseira direita</AEXP_LargeLizardlike.corePart.parts.rear_right_leg.customLabel>
+  <AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>primeira garra da perna traseira direita</AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>
+  <AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>segunda garra da perna traseira direita</AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>
+  <AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>terceira garra da perna traseira direita</AEXP_LargeLizardlike.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>
+
+</LanguageData>

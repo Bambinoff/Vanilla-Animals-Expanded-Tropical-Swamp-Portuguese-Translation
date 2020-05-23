@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anaconda -->
+
+  <AEXP_EggAnacondaFertilized.label>ovo de sucuri (fert.)(</AEXP_EggAnacondaFertilized.label>
+  <AEXP_EggAnacondaFertilized.description>Um ovo de sucuri fertilizado. Se tudo correr bem, deve eclodir em uma sucuri bebê. Pode ser consumido cru, mas é muito melhor cozido.</AEXP_EggAnacondaFertilized.description>
+
+
+  <!-- Alligator -->
+
+  <AEXP_EggAlligatorFertilized.label>ovo de jacaré (fert.)</AEXP_EggAlligatorFertilized.label>
+  <AEXP_EggAlligatorFertilized.description>Um ovo de jacaré fertilizado. Se tudo correr bem, deve eclodir em um jacaré bebê. Pode ser consumido cru, mas é muito melhor cozido.</AEXP_EggAlligatorFertilized.description>
+
+</LanguageData>

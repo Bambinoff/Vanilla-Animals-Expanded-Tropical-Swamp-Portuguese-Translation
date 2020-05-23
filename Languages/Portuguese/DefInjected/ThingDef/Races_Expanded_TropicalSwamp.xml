@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Alligator -->
+
+  <AEXP_Alligator.label>jacaré</AEXP_Alligator.label>
+  <AEXP_Alligator.description>O jacaré é um grande réptil que habita áreas úmidas de água doce. Eles são predadores alfas do topo da cadeia alimentar, e consomem peixes, anf&#237;bios, répteis, pássaros e mam&#237;feros. Como outros crocodilos, jacarés saudáveis podem continuar a crescer ao longo de suas vidas.</AEXP_Alligator.description>
+
+
+  <!-- Anaconda -->
+
+  <AEXP_Anaconda.label>sucuri</AEXP_Anaconda.label>
+  <AEXP_Anaconda.description>A sucuri é uma das espécies de cobra mais pesada e mais comprida conhecidas, alcançando comprimentos de 5 metros. São espécies principalmente noturnas que tendem a passar a maior parte de sua vida dentro ou ao redor da água.</AEXP_Anaconda.description>
+
+
+  <!-- Indian Elephant -->
+
+  <AEXP_IndianElephant.label>elefante-indiano</AEXP_IndianElephant.label>
+  <AEXP_IndianElephant.description>O elefante-indiano é um dos maiores animais terrestres não modificados. Em geral, os elefantes indianos são menores, têm orelhas menores, mas crânios relativamente mais largos e troncos maiores que os elefantes-africanos, e têm o ponto mais alto do corpo na cabeça.</AEXP_IndianElephant.description>
+  <AEXP_IndianElephant.tools.left_foot.label>pé esquerdo</AEXP_IndianElephant.tools.left_foot.label>
+  <AEXP_IndianElephant.tools.right_foot.label>pé direito</AEXP_IndianElephant.tools.right_foot.label>
+  <AEXP_IndianElephant.tools.head.label>cabeça</AEXP_IndianElephant.tools.head.label>
+ 
+
+</LanguageData>

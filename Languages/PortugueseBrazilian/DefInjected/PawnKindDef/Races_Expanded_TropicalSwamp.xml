@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Alligator -->
+
+  <AEXP_Alligator.label>jacaré</AEXP_Alligator.label>
+  <!-- <AEXP_Alligator.labelPlural>jacarés</AEXP_Alligator.labelPlural> -->
+  <AEXP_Alligator.lifeStages.0.label>jacaré filhote</AEXP_Alligator.lifeStages.0.label>
+  <!-- <AEXP_Alligator.lifeStages.0.labelPlural>jacarés filhotes</AEXP_Alligator.lifeStages.0.labelPlural>
+  <AEXP_Alligator.lifeStages.0.labelMale>jacaré filhote</AEXP_Alligator.lifeStages.0.labelMale>
+  <AEXP_Alligator.lifeStages.0.labelMalePlural>jacarés filhotes</AEXP_Alligator.lifeStages.0.labelMalePlural>
+  <AEXP_Alligator.lifeStages.0.labelFemale>jacaré filhote</AEXP_Alligator.lifeStages.0.labelFemale>
+  <AEXP_Alligator.lifeStages.0.labelFemalePlural>jacarés filhotes</AEXP_Alligator.lifeStages.0.labelFemalePlural>
+  <AEXP_Alligator.lifeStages.1.label>jacaré</AEXP_Alligator.lifeStages.1.label>
+  <AEXP_Alligator.lifeStages.1.labelPlural>jacarés</AEXP_Alligator.lifeStages.1.labelPlural>
+  <AEXP_Alligator.lifeStages.1.labelMale>jacaré</AEXP_Alligator.lifeStages.1.labelMale>
+  <AEXP_Alligator.lifeStages.1.labelMalePlural>jacarés</AEXP_Alligator.lifeStages.1.labelMalePlural>
+  <AEXP_Alligator.lifeStages.1.labelFemale>jacaré</AEXP_Alligator.lifeStages.1.labelFemale>
+  <AEXP_Alligator.lifeStages.1.labelFemalePlural>jacarés</AEXP_Alligator.lifeStages.1.labelFemalePlural>
+  <AEXP_Alligator.lifeStages.2.label>jacaré</AEXP_Alligator.lifeStages.2.label>
+  <AEXP_Alligator.lifeStages.2.labelPlural>jacarés</AEXP_Alligator.lifeStages.2.labelPlural>
+  <AEXP_Alligator.lifeStages.2.labelMale>jacaré</AEXP_Alligator.lifeStages.2.labelMale>
+  <AEXP_Alligator.lifeStages.2.labelMalePlural>jacarés</AEXP_Alligator.lifeStages.2.labelMalePlural>
+  <AEXP_Alligator.lifeStages.2.labelFemale>jacaré</AEXP_Alligator.lifeStages.2.labelFemale>
+  <AEXP_Alligator.lifeStages.2.labelFemalePlural>jacarés</AEXP_Alligator.lifeStages.2.labelFemalePlural>
+  <AEXP_Alligator.labelMale>jacaré</AEXP_Alligator.labelMale>
+  <AEXP_Alligator.labelMalePlural>jacarés</AEXP_Alligator.labelMalePlural>
+  <AEXP_Alligator.labelFemale>jacaré</AEXP_Alligator.labelFemale>
+  <AEXP_Alligator.labelFemalePlural>jacarés</AEXP_Alligator.labelFemalePlural> -->
+
+
+  <!-- Anaconda -->
+
+  <AEXP_Anaconda.label>sucuri</AEXP_Anaconda.label>
+  <!-- <AEXP_Anaconda.labelPlural>sucuris</AEXP_Anaconda.labelPlural> -->
+  <AEXP_Anaconda.lifeStages.0.label>sucuri filhote</AEXP_Anaconda.lifeStages.0.label>
+  <!-- <AEXP_Anaconda.lifeStages.0.labelPlural>sucuris filhotes</AEXP_Anaconda.lifeStages.0.labelPlural>
+  <AEXP_Anaconda.lifeStages.0.labelMale>sucuri filhote</AEXP_Anaconda.lifeStages.0.labelMale>
+  <AEXP_Anaconda.lifeStages.0.labelMalePlural>sucuris filhotes</AEXP_Anaconda.lifeStages.0.labelMalePlural>
+  <AEXP_Anaconda.lifeStages.0.labelFemale>sucuri filhote</AEXP_Anaconda.lifeStages.0.labelFemale>
+  <AEXP_Anaconda.lifeStages.0.labelFemalePlural>sucuris filhotes</AEXP_Anaconda.lifeStages.0.labelFemalePlural>
+  <AEXP_Anaconda.lifeStages.1.label>sucuri</AEXP_Anaconda.lifeStages.1.label>
+  <AEXP_Anaconda.lifeStages.1.labelPlural>sucuris</AEXP_Anaconda.lifeStages.1.labelPlural>
+  <AEXP_Anaconda.lifeStages.1.labelMale>sucuri</AEXP_Anaconda.lifeStages.1.labelMale>
+  <AEXP_Anaconda.lifeStages.1.labelMalePlural>sucuris</AEXP_Anaconda.lifeStages.1.labelMalePlural>
+  <AEXP_Anaconda.lifeStages.1.labelFemale>sucuri</AEXP_Anaconda.lifeStages.1.labelFemale>
+  <AEXP_Anaconda.lifeStages.1.labelFemalePlural>sucuris</AEXP_Anaconda.lifeStages.1.labelFemalePlural>
+  <AEXP_Anaconda.lifeStages.2.label>sucuri</AEXP_Anaconda.lifeStages.2.label>
+  <AEXP_Anaconda.lifeStages.2.labelPlural>sucuris</AEXP_Anaconda.lifeStages.2.labelPlural>
+  <AEXP_Anaconda.lifeStages.2.labelMale>sucuri</AEXP_Anaconda.lifeStages.2.labelMale>
+  <AEXP_Anaconda.lifeStages.2.labelMalePlural>sucuris</AEXP_Anaconda.lifeStages.2.labelMalePlural>
+  <AEXP_Anaconda.lifeStages.2.labelFemale>sucuri</AEXP_Anaconda.lifeStages.2.labelFemale>
+  <AEXP_Anaconda.lifeStages.2.labelFemalePlural>sucuris</AEXP_Anaconda.lifeStages.2.labelFemalePlural>
+  <AEXP_Anaconda.labelMale>sucuri</AEXP_Anaconda.labelMale>
+  <AEXP_Anaconda.labelMalePlural>sucuri</AEXP_Anaconda.labelMalePlural>
+  <AEXP_Anaconda.labelFemale>sucuri</AEXP_Anaconda.labelFemale>
+  <AEXP_Anaconda.labelFemalePlural>sucuris</AEXP_Anaconda.labelFemalePlural> -->
+
+
+  <!-- Indian Elephant -->
+
+  <AEXP_IndianElephant.label>elefante-indiano</AEXP_IndianElephant.label>
+  <!-- <AEXP_IndianElephant.labelPlural>elefantes-indianos</AEXP_IndianElephant.labelPlural> -->
+  <AEXP_IndianElephant.lifeStages.indian_elephant_calf.label>elefante-indiano filhote</AEXP_IndianElephant.lifeStages.indian_elephant_calf.label>
+  <!-- <AEXP_IndianElephant.lifeStages.indian_elephant_calf.labelPlural>elefantes-indianos filhotes</AEXP_IndianElephant.lifeStages.indian_elephant_calf.labelPlural>
+  <AEXP_IndianElephant.lifeStages.indian_elephant_calf.labelMale>elefante-indiano filhote</AEXP_IndianElephant.lifeStages.indian_elephant_calf.labelMale>
+  <AEXP_IndianElephant.lifeStages.indian_elephant_calf.labelMalePlural>elefantes-indianos filhotes</AEXP_IndianElephant.lifeStages.indian_elephant_calf.labelMalePlural>
+  <AEXP_IndianElephant.lifeStages.indian_elephant_calf.labelFemale>elefante-indiano filhote filhotes</AEXP_IndianElephant.lifeStages.indian_elephant_calf.labelFemale>
+  <AEXP_IndianElephant.lifeStages.indian_elephant_calf.labelFemalePlural>elefantes-indianos filhotes</AEXP_IndianElephant.lifeStages.indian_elephant_calf.labelFemalePlural>
+  <AEXP_IndianElephant.lifeStages.1.label>elefante-indiano</AEXP_IndianElephant.lifeStages.1.label>
+  <AEXP_IndianElephant.lifeStages.1.labelPlural>elefantes-indianos</AEXP_IndianElephant.lifeStages.1.labelPlural>
+  <AEXP_IndianElephant.lifeStages.1.labelMale>elefante-indiano</AEXP_IndianElephant.lifeStages.1.labelMale>
+  <AEXP_IndianElephant.lifeStages.1.labelMalePlural>elefantes-indianos</AEXP_IndianElephant.lifeStages.1.labelMalePlural>
+  <AEXP_IndianElephant.lifeStages.1.labelFemale>elefante-indiano</AEXP_IndianElephant.lifeStages.1.labelFemale>
+  <AEXP_IndianElephant.lifeStages.1.labelFemalePlural>elefantes-indianos</AEXP_IndianElephant.lifeStages.1.labelFemalePlural>
+  <AEXP_IndianElephant.lifeStages.2.label>elefante-indiano</AEXP_IndianElephant.lifeStages.2.label>
+  <AEXP_IndianElephant.lifeStages.2.labelPlural>elefantes-indianos</AEXP_IndianElephant.lifeStages.2.labelPlural>
+  <AEXP_IndianElephant.lifeStages.2.labelMale>elefante-indiano</AEXP_IndianElephant.lifeStages.2.labelMale>
+  <AEXP_IndianElephant.lifeStages.2.labelMalePlural>elefante-indiano</AEXP_IndianElephant.lifeStages.2.labelMalePlural>
+  <AEXP_IndianElephant.lifeStages.2.labelFemale>elefante-indiano</AEXP_IndianElephant.lifeStages.2.labelFemale>
+  <AEXP_IndianElephant.lifeStages.2.labelFemalePlural>elefantes-indianos</AEXP_IndianElephant.lifeStages.2.labelFemalePlural>
+  <AEXP_IndianElephant.labelMale>elefante-indiano</AEXP_IndianElephant.labelMale>
+  <AEXP_IndianElephant.labelMalePlural>elefantes-indianos</AEXP_IndianElephant.labelMalePlural>
+  <AEXP_IndianElephant.labelFemale>elefante-indiano</AEXP_IndianElephant.labelFemale>
+  <AEXP_IndianElephant.labelFemalePlural>elefantes-indianos</AEXP_IndianElephant.labelFemalePlural> -->
+
+</LanguageData>
